@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nathan Champagne</h1>
+<h1 align="center">Hi 👋, I'm Nath</h1>
 <h3 align="center">Emerging software engineer with 6 years of experience in Python and C++</h3>
 
 - 📊 Owned and worked for **NexusAim**, making tools for games.
